@@ -10,7 +10,7 @@ Please ensure that development libraries for [PostgreSQL](http://techarena51.com
 
     git clone https://github.com/pktahinduka/flask_and_reactJS
 
-####Step 2: Install the requirements and add your Database configuration details.
+#### Step 2: Install the requirements and add your Database configuration details.
 
     pip install -r requirements.txt
 
