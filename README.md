@@ -1,6 +1,7 @@
 # flask_and_reactJS
 #### This project is meant to demonstrate the a combination of Python backend and ReactJS frontend coupled with a set of other technologies.
 [![Build Status](https://travis-ci.org/pktahinduka/flask_and_reactJS.svg?branch=master)](https://travis-ci.org/pktahinduka/flask_and_reactJS)
+[![Coverage Status](https://coveralls.io/repos/github/pktahinduka/flask_and_reactJS/badge.svg?branch=master)](https://coveralls.io/github/pktahinduka/flask_and_reactJS?branch=master)
 
 #### Installation
 

@@ -16,6 +16,6 @@ before_script:
   - python manage.py recreate_db
 
 script:
-  - python manage.py cov 
+  - python manage.py cov --with-coverage --cover-package=project 
 
 after_success: coveralls
