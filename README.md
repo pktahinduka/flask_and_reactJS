@@ -7,7 +7,7 @@
 
 Please ensure that development libraries for [PostgreSQL](http://techarena51.com/index.php/flask-sqlalchemy-postgresql-tutorial/) are installed.
 
-#### Step 1:Clone the project to your application folder.
+#### Step 1: Clone the project to your application folder.
 
     git clone https://github.com/pktahinduka/flask_and_reactJS
 
