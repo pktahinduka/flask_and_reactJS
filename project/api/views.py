@@ -5,7 +5,7 @@ from project.api.models import User
 from project import db
 from sqlalchemy import exc
 
-users_blueprint = Blueprint('users_blueprint', __name__, static_url_path='./static', template_folder='./templates')
+users_blueprint = Blueprint('users_blueprint', __name__, template_folder='./templates')
 
 @users_blueprint.route('/home')
 def main():
