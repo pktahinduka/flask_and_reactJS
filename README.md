@@ -20,8 +20,10 @@ Please ensure that development libraries for [PostgreSQL](http://techarena51.com
 
 #### Step 3 : Create the necessary databases along with their tables
 
-     - python manage.py recreate_db
-     - python manage.py seed_db
+     - python manage.py db init
+     - python manage.py db migrate
+     - python manage.py db upgrade
+     
 
 #### Step 4: Run the application 
      
@@ -33,4 +35,4 @@ Please ensure that development libraries for [PostgreSQL](http://techarena51.com
 
 #### Step 5: Run coverage for the routes and configurations
     
-     - python manage.py coverage
+     - python manage.py cov
