@@ -4,9 +4,9 @@
 [![Coverage Status](https://coveralls.io/repos/github/pktahinduka/shopeasy-flask-rest-api/badge.svg?branch=TravisCI-Test)](https://coveralls.io/github/pktahinduka/shopeasy-flask-rest-api?branch=TravisCI-Test)
 
 #### ShopEasy Screenshots
-(screenshots/login.png)
+![alt text](screenshots/login.png)
 
-(screenshots/user.png)
+![alt text](screenshots/user.png)
 
 
 #### Installation
