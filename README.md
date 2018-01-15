@@ -6,7 +6,7 @@
 #### ShopEasy Screenshots
 ![alt text](screenshots/login.PNG)
 
-![alt text](screenshots/user.png)
+![alt text](screenshots/user.PNG)
 
 
 #### Installation
