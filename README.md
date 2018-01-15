@@ -3,6 +3,12 @@
 [![Build Status](https://travis-ci.org/pktahinduka/flask_and_reactJS.svg?branch=master)](https://travis-ci.org/pktahinduka/flask_and_reactJS)
 [![Coverage Status](https://coveralls.io/repos/github/pktahinduka/shopeasy-flask-rest-api/badge.svg?branch=TravisCI-Test)](https://coveralls.io/github/pktahinduka/shopeasy-flask-rest-api?branch=TravisCI-Test)
 
+#### ShopEasy Screenshots
+(screenshots/login.png)
+
+(screenshots/user.png)
+
+
 #### Installation
 
 Please ensure that development libraries for [PostgreSQL](http://techarena51.com/index.php/flask-sqlalchemy-postgresql-tutorial/) are installed.
